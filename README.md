@@ -1,2 +1,1 @@
-# qwe
-qweqweqweq
+github.com/xmrig/xmrig/releases
